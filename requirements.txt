@@ -1,0 +1,10 @@
+scikit-learn==1.7.2
+xgboost
+lightgbm
+pandas
+streamlit
+sqlalchemy
+psycopg2-binary
+python-dotenv
+category_encoders
+joblib
