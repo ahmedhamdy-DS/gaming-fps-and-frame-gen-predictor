@@ -10,7 +10,7 @@ An end-to-end Machine Learning web application designed to predict gaming perfor
 
 This project serves as a **Proof of Concept (PoC)** demonstrating a complete production pipeline: from complex ML data preprocessing and model serialization to serverless cloud database integration and a custom-styled frontend.
 
-## 🧠 System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -21,7 +21,7 @@ graph TD
     D -->|FPS Prediction| A
 ```
 
-## ✨ Key Features
+##  Key Features
 - **Production-Ready ML Pipeline:** Utilizes a robust scikit-learn pipeline encompassing multiple ColumnTransformer steps, SimpleImputer strategies, TargetEncoder for high-cardinality categorical variables, and an XGBoost estimator.
 - **Serverless Cloud Database:** Hardware specifications (CPUs, GPUs) and game titles are fetched dynamically from a cloud-hosted PostgreSQL database (Neon) using SQLAlchemy, eliminating the need for local static files.
 - **Cyberpunk Aesthetic UI:** A heavily customized Streamlit interface using raw CSS design tokens to create a futuristic, dark-themed gaming dashboard.
@@ -32,7 +32,7 @@ graph TD
 - **Backend & DB:** SQLAlchemy, psycopg2-binary, python-dotenv, PostgreSQL (Neon.tech)
 - **Frontend:** Streamlit, Custom HTML/CSS
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -69,7 +69,7 @@ python seed_db.py
 streamlit run App.py
 ```
 
-## 📊 The ML Pipeline Deep Dive
+##  The ML Pipeline Deep Dive
 The core of this application is a serialized pipeline trained on hardware benchmarks.
 
 - **Numerical Features:** Processed using `SimpleImputer(strategy='median')` and scaled via `StandardScaler`.
@@ -79,11 +79,11 @@ The core of this application is a serialized pipeline trained on hardware benchm
 
 > **Note:** The current dataset utilizes legacy benchmark data to validate the architecture. Future iterations will include a retrained model on current-gen hardware benchmarks.
 
-## 👨‍💻 Author
+##  Author
 **Ahmed Hamdy** - Machine Learning Engineer  
 [GitHub Profile](https://github.com/a7med-830)
 
-👨‍💻 Author
+ Author
 Ahmed Hamdy - Machine Learning Engineer
 
 GitHub Profile
