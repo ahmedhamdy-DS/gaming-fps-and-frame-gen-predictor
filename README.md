@@ -27,7 +27,7 @@ graph TD
 - **Cyberpunk Aesthetic UI:** A heavily customized Streamlit interface using raw CSS design tokens to create a futuristic, dark-themed gaming dashboard.
 - **Graceful Error Handling & Validation:** Built-in safeguards against version mismatches, database connection drops, and empty spec queries.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Machine Learning:** scikit-learn, xgboost, category_encoders, pandas, joblib
 - **Backend & DB:** SQLAlchemy, psycopg2-binary, python-dotenv, PostgreSQL (Neon.tech)
 - **Frontend:** Streamlit, Custom HTML/CSS
