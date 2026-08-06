@@ -6,6 +6,10 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Regressor-F37626?logo=xgboost&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.2-F7931E?logo=scikit-learn&logoColor=white)
 
+  <a href="https://gaming-fps-and-frame-gen-predictor-khsgrjvfdjrzsde6ptof4y.streamlit.app/"><strong> Live Demo</strong></a> •
+</p>
+
+
 An end-to-end Machine Learning web application designed to predict gaming performance (FPS) based on hardware specifications and in-game settings. 
 
 This project serves as a **Proof of Concept (PoC)** demonstrating a complete production pipeline: from complex ML data preprocessing and model serialization to serverless cloud database integration and a custom-styled frontend.
