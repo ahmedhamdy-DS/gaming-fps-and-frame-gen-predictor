@@ -10,7 +10,7 @@
 </p>
 
 
-<img src="./docs/ODashBoard.png" alt="Hieroglyphs-AI overview" width="800"/>
+<img src="./docs/DashBoard.png" alt="FPS Oracle overview" width="800"/>
 
 
 
