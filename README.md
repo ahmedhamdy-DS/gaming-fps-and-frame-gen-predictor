@@ -89,6 +89,6 @@ The core of this application is a serialized pipeline trained on hardware benchm
 
 ##  Author
 **Ahmed Hamdy** - Machine Learning Engineer  
-[GitHub Profile](https://github.com/a7med-830)
+
 
 
