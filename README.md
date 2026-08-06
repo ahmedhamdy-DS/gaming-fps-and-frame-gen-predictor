@@ -10,6 +10,10 @@
 </p>
 
 
+<img src="./docs/ODashBoard.png" alt="Hieroglyphs-AI overview" width="800"/>
+
+
+
 An end-to-end Machine Learning web application designed to predict gaming performance (FPS) based on hardware specifications and in-game settings. 
 
 This project serves as a **Proof of Concept (PoC)** demonstrating a complete production pipeline: from complex ML data preprocessing and model serialization to serverless cloud database integration and a custom-styled frontend.
